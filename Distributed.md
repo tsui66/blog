@@ -1,1 +1,2 @@
 - [一致哈希](http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&mid=2650392231&idx=1&sn=4ff765a663ef714f295a26ed7b864bed&scene=0#wechat_redirect)
+- [坑系列 --- 缓存+哈希=高并发？](http://mp.weixin.qq.com/s?__biz=MjM5ODczNTkwMA==&mid=2650107088&idx=1&sn=f1e1d091a2a34ef66073f734827042ac#rd)
