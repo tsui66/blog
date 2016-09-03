@@ -1,1 +1,2 @@
 - [JavaScript 中的 this !](http://qiutc.me/post/this-this-this-in-javascript.html)
+- [Javascript中prototype属性的详解](http://www.58maisui.com/2016/09/03/283/)
